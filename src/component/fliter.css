@@ -1,0 +1,16 @@
+.fliter{ 
+    font-family: "Indie";
+    color: #044D37;
+    font-family: "Inika", serif;
+}
+
+.filter_checkbox{
+    padding: 1rem;
+}
+
+.filterAction{
+    width: 70%;
+    display: flex;
+    justify-content: space-between;
+    /* flex-wrap: wrap; */
+}

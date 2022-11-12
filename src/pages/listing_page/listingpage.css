@@ -1,0 +1,23 @@
+.listing-section{
+    padding: 1rem 3rem;
+    display: flex;
+    justify-content: flex-start;
+}
+
+.left-side{
+    width: 20%;
+    border-right: 2.5px solid #68BBA2;
+    margin-right: 1rem;
+}
+
+.right-side{
+    flex: 1;
+}
+
+.recipe__list{
+    margin: 1rem;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    
+}
