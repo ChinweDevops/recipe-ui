@@ -5,7 +5,7 @@ const FooterSection = () => {
   return (
     <div className="footer">
       <h3>
-        Designed and Developed with ❤️ by: <span>Emmanuel Sahr Sewah</span>
+        Designed and Developed with ❤️ by: <span>Chinwe Emele</span>
       </h3>
     </div>
   );

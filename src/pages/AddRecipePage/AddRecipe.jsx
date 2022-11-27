@@ -290,6 +290,11 @@ const AddRecipe = () => {
             <MenuItem value="AFRICAN">African</MenuItem>
             <MenuItem value="EUROPEAN">European</MenuItem>
             <MenuItem value="ASIAN">Asian</MenuItem>
+            
+            <MenuItem value="NORTH_AMERICAN">North American</MenuItem>
+            <MenuItem value="SOUTH_AMERICAN">South American</MenuItem>
+            <MenuItem value="ANTARTICA">Antartica</MenuItem>
+            <MenuItem value="AUSTRALIAN">Australian</MenuItem>
           </Select>
         </div>
         <div style={style.actionStyles}>
